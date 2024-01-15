@@ -10,3 +10,12 @@ Git branch:Default branch is master branch.
 When developers are working on same product, divede the work on tasks and they work on the tasks paralley to complete this Product task.
 Can create one branch basis on other branch. When crating a new branch the data of existing branch is copied to a new branch.
 Changes are personal to paritculat branch. Files created in work space will be visibel to everone until it commit, once it commit then it is visibel only that particular branch.
+Git stashing is used, when working on task or impleting a new feature to your product, suddenly a client escaltion comes, then at theat time you need to put your work aside. and start completing the task whic ur clents need to be done the task immediately. Then at that time this tash is used.
+Git rest is a powerful command it is used when the developer add the code to the staging area suddenly he remembered that there is some work is added that file to get back the file to Working directory this reset command is used.
+Git reset . to remove the file from stg area
+git reser --hard to remove the file from both stg and w.D
+Git revert:this command is used when the developer pushes the code to commit branh, suddenly the developer some logic or code need to added, at that time to bring back the code from loacl to stg. git revert command is used,
+Git conflict: Git confilct occure ehen the developers are working the sam file and while merging the code with master this conflit occurs. To remove this confict and tell open the vi editor and tell whic file should come first then this confilt will close.
+Git tag:tag assign a meaingful name to file. whith the help of this we can indenty where is the file.
+git tag -a <tag name> -m <message> <commit ID>
+gti tag -d tagnamegit add -A

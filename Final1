@@ -6,3 +6,7 @@ Git is diffcult for beginners to learn. because most commands are needed to reme
 Working on branches is easier for developers because less confilcts will occur.
 client can also work on offline mode beacuse thet copy entir local repository.
 Developer can work even if the sevrer is down.
+Git branch:Default branch is master branch.
+When developers are working on same product, divede the work on tasks and they work on the tasks paralley to complete this Product task.
+Can create one branch basis on other branch. When crating a new branch the data of existing branch is copied to a new branch.
+Changes are personal to paritculat branch. Files created in work space will be visibel to everone until it commit, once it commit then it is visibel only that particular branch.

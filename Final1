@@ -1,0 +1,8 @@
+Git is DVCS. Linus Torvald introduced git in the yaer 2005
+Befor Git CVCS is there. In that if reposity is down or damaged it will be diffcult to work on this because the client did;t have seperate copy.
+It is not locally avilabele. You always need to connect to hte network to perform the action.
+Git is free and open source tool. In DVCS ecah client having seprat copy the main file and having complete histroy on it.
+Git is diffcult for beginners to learn. because most commands are needed to remember.
+Working on branches is easier for developers because less confilcts will occur.
+client can also work on offline mode beacuse thet copy entir local repository.
+Developer can work even if the sevrer is down.
